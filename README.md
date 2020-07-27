@@ -8,3 +8,4 @@ Made to work on Ubuntu/debian
 ## These files were not made by me:
 - pgmread.h, pgmread.c
 - send_packet.h, send_packet.c
+- all the pgm files in the big_set and mini_set folders
